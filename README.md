@@ -9,4 +9,6 @@ Create your Amazon Developer account [here](https://developer.amazon.com),
 
 Check our channel [here](https://www.youtube.com/channel/UCHRZ9VqG4hBiKk5JpN1Fvsg).
 
+Check the index.js file [here](lambda/index.js)
+
 
