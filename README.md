@@ -7,7 +7,7 @@ This is a sample fact skill for creating a fact skill using Alexa Skills Kit.
 
 Check the index.js file [here](lambda/index.js).
 
-Check the languageStrings file [here](lambda/languageStrings.js).
+Check the languageStrings.js file [here](lambda/languageStrings.js).
 
 Create your Amazon Developer account [here](https://developer.amazon.com),
 
